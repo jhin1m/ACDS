@@ -6,7 +6,7 @@
     
     git clone https://github.com/jhin1m/ACDS
     
-    cd Anti-Cursed-Darkness-Squad-BETA
+    cd ACDS
    
     
     ulimit -n 999999
@@ -29,7 +29,7 @@
 
 # Installation Collab GG
   
-    !git clone https://github.com/jhin1m/ACDS && cd Anti-Cursed-Darkness-Squad-BETA && ulimit -n 999999 && sudo apt install python3 && python3 installer.py
+    !git clone https://github.com/jhin1m/ACDS && cd ACDS && ulimit -n 999999 && sudo apt install python3 && python3 installer.py
     
     ERROR FIX:
     !chmod +x fixer
